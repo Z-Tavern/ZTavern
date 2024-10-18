@@ -1,0 +1,192 @@
+{
+    "Webfront": false,
+    "WebfrontPort": 8000,
+    "WebfrontSSL": false,
+    "WebfrontSSL-Key": "",
+    "WebfrontSSL-Cert": "",
+    "webfrontHostname": "",
+    "discordHookUrl": "",
+    "discordSecret": "",
+    "discordClientId": "",
+    "discordOAuth2Url": "",
+    "discordBotToken": "",
+    "MOTD": "Welcome",
+    "Info": "",
+    "commandPrefixes": [
+        "."
+    ],
+    "broadcastCommandPrefixes": [
+        "@"
+    ],
+    "links": [
+        ""
+    ],
+    "socialMedia": [],
+    "rules": [],
+    "locale": "en",
+    "autoMessagesInterval": 300,
+    "autoMessages": [
+        "A total of ^5{TOTALCLIENTS}^7 players have played on this server",
+        "Server maintenance every ^36 hours^7 do ^3.ut",
+        "Server maintenance every ^36 hours^7 do ^3.ut",
+        "There are ^5{PLAYERCOUNT}^7 online players across ^5{SERVERCOUNT}^7 servers at the moment",
+        "^5{TOTALPLAYEDTIME}^7 hours have been wasted playing on this server"
+    ],
+    "Servers": [
+        {
+            "IP": "127.0.0.1",
+            "PORT": "30001",
+            "PASSWORD": "rconAQW25wqa",
+            "LOGFILE": "C:\\Users\\Administrator\\AppData\\Local\\Plutonium\\storage\\t6\\logs\\games_zmbrutus.log",
+            "Gamename": "T6",
+            "reservedSlots": 0
+        },
+        {
+            "IP": "127.0.0.1",
+            "PORT": "30002",
+            "PASSWORD": "rconAQW25wqa",
+            "LOGFILE": "C:\\Users\\Administrator\\AppData\\Local\\Plutonium\\storage\\t6\\logs\\games_zmburied.log",
+            "Gamename": "T6",
+            "reservedSlots": 0
+        },
+        {
+            "IP": "127.0.0.1",
+            "PORT": "30003",
+            "PASSWORD": "rconAQW25wqa",
+            "LOGFILE": "C:\\Users\\Administrator\\AppData\\Local\\Plutonium\\storage\\t6\\logs\\games_zmdierise.log",
+            "Gamename": "T6",
+            "reservedSlots": 0
+        },
+        {
+            "IP": "127.0.0.1",
+            "PORT": "30004",
+            "PASSWORD": "rconAQW25wqa",
+            "LOGFILE": "C:\\Users\\Administrator\\AppData\\Local\\Plutonium\\storage\\t6\\logs\\games_zmmotd.log",
+            "Gamename": "T6",
+            "reservedSlots": 0
+        },
+        {
+            "IP": "127.0.0.1",
+            "PORT": "30005",
+            "PASSWORD": "rconAQW25wqa",
+            "LOGFILE": "C:\\Users\\Administrator\\AppData\\Local\\Plutonium\\storage\\t6\\logs\\games_zmprivate.log",
+            "Gamename": "T6",
+            "reservedSlots": 0
+        },
+        {
+            "IP": "127.0.0.1",
+            "PORT": "30006",
+            "PASSWORD": "rconAQW25wqa",
+            "LOGFILE": "C:\\Users\\Administrator\\AppData\\Local\\Plutonium\\storage\\t6\\logs\\games_zmnuketown.log",
+            "Gamename": "T6",
+            "reservedSlots": 0
+        },
+        {
+            "IP": "127.0.0.1",
+            "PORT": "30007",
+            "PASSWORD": "rconAQW25wqa",
+            "LOGFILE": "C:\\Users\\Administrator\\AppData\\Local\\Plutonium\\storage\\t6\\logs\\games_zmorigin.log",
+            "Gamename": "T6",
+            "reservedSlots": 0
+        },
+        {
+            "IP": "127.0.0.1",
+            "PORT": "30008",
+            "PASSWORD": "rconAQW25wqa",
+            "LOGFILE": "C:\\Users\\Administrator\\AppData\\Local\\Plutonium\\storage\\t6\\logs\\games_zmorigin2.log",
+            "Gamename": "T6",
+            "reservedSlots": 0
+        },
+        {
+            "IP": "127.0.0.1",
+            "PORT": "30009",
+            "PASSWORD": "rconAQW25wqa",
+            "LOGFILE": "C:\\Users\\Administrator\\AppData\\Local\\Plutonium\\storage\\t6\\logs\\games_zmorigin3.log",
+            "Gamename": "T6",
+            "reservedSlots": 0
+        },
+        {
+            "IP": "127.0.0.1",
+            "PORT": "30010",
+            "PASSWORD": "rconAQW25wqa",
+            "LOGFILE": "C:\\Users\\Administrator\\AppData\\Local\\Plutonium\\storage\\t6\\logs\\games_zmpanzer.log",
+            "Gamename": "T6",
+            "reservedSlots": 0
+        },
+        {
+            "IP": "127.0.0.1",
+            "PORT": "30011",
+            "PASSWORD": "rconAQW25wqa",
+            "LOGFILE": "C:\\Users\\Administrator\\AppData\\Local\\Plutonium\\storage\\t6\\logs\\games_zmtitb.log",
+            "Gamename": "T6",
+            "reservedSlots": 0
+        },
+        {
+            "IP": "127.0.0.1",
+            "PORT": "30012",
+            "PASSWORD": "rconAQW25wqa",
+            "LOGFILE": "C:\\Users\\Administrator\\AppData\\Local\\Plutonium\\storage\\t6\\logs\\games_zmtown.log",
+            "Gamename": "T6",
+            "reservedSlots": 0
+        },
+        {
+            "IP": "127.0.0.1",
+            "PORT": "30013",
+            "PASSWORD": "rconAQW25wqa",
+            "LOGFILE": "C:\\Users\\Administrator\\AppData\\Local\\Plutonium\\storage\\t6\\logs\\games_zmtown2.log",
+            "Gamename": "T6",
+            "reservedSlots": 0
+        },
+        {
+            "IP": "127.0.0.1",
+            "PORT": "30014",
+            "PASSWORD": "rconAQW25wqa",
+            "LOGFILE": "C:\\Users\\Administrator\\AppData\\Local\\Plutonium\\storage\\t6\\logs\\games_zmtown3.log",
+            "Gamename": "T6",
+            "reservedSlots": 0
+        },
+        {
+            "IP": "127.0.0.1",
+            "PORT": "30015",
+            "PASSWORD": "rconAQW25wqa",
+            "LOGFILE": "C:\\Users\\Administrator\\AppData\\Local\\Plutonium\\storage\\t6\\logs\\games_zmtranzit.log",
+            "Gamename": "T6",
+            "reservedSlots": 0
+        }
+    ],
+    "Permissions": {
+        "Levels": {
+            "ROLE_BANNED": -1,
+            "ROLE_USER": 0,
+            "ROLE_FLAGGED": 1,
+            "ROLE_TRUSTED": 2,
+            "ROLE_MODERATOR": 3,
+            "ROLE_ADMIN": 4,
+            "ROLE_OWNER": 5,
+            "ROLE_MANAGER": 6
+        },
+        "Commands": {
+            "COMMAND_KICK": "ROLE_MODERATOR",
+            "COMMAND_USER_CMDS": "ROLE_USER",
+            "COMMANDS_KICK": "ROLE_MODERATOR",
+            "COMMAND_FIND": "ROLE_MODERATOR",
+            "COMMAND_SETROLE": "ROLE_ADMIN",
+            "COMMAND_TP": "ROLE_ADMIN",
+            "COMMAND_RCON": "ROLE_OWNER",
+            "COMMAND_TOKEN": "ROLE_MODERATOR",
+            "COMMAND_BAN": "ROLE_MODERATOR",
+            "COMMAND_CHANGE_INFO": "ROLE_ADMIN",
+            "COMMAND_MAP": "ROLE_ADMIN"
+        },
+        "Roles": {
+            "ROLE_BANNED": "Banned",
+            "ROLE_USER": "User",
+            "ROLE_FLAGGED": "Flagged",
+            "ROLE_TRUSTED": "Trusted",
+            "ROLE_MODERATOR": "Moderator",
+            "ROLE_ADMIN": "Admin",
+            "ROLE_OWNER": "Owner",
+            "ROLE_MANAGER": "Node Server Manager"
+        }
+    }
+}
