@@ -6,7 +6,7 @@ https://plutonium.pw/docs/server/t6/setting-up-a-server/
 - Install Fed's Node Server Manager
 https://github.com/alicealys/node-server-manager
 
-- Copy & paste all folder contents
+### Copy & paste all folder contents
 - node-server-manager -> **node-server-manager installed folder**
 - bo2 -> **your bo2 server root directory**
 - t6 -> **%localappdata%\Plutonium\storage\t6**
@@ -17,7 +17,7 @@ https://github.com/alicealys/node-server-manager
 - Server key name must be named as follow :
 (Your server name) | BRUTUS ON THE BRIDGE | (extra txt)
 
-- Server name list :
+### Server name list 
 - PRIVATE SERVER
 - RAID BOSS
 - BRUTUS ON THE BRIDGE
