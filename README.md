@@ -7,9 +7,9 @@ https://plutonium.pw/docs/server/t6/setting-up-a-server/
 https://github.com/alicealys/node-server-manager
 
 - Copy & paste all folder contents
-node-server-manager -> **node-server-manager installed folder**
-bo2 -> **your bo2 server root directory**
-t6 -> **%localappdata%\Plutonium\storage\t6**
+- node-server-manager -> **node-server-manager installed folder**
+- bo2 -> **your bo2 server root directory**
+- t6 -> **%localappdata%\Plutonium\storage\t6**
 
 ### Server keys
 - Make sure to add your Plutonium server keys in all **bo2/!start_zm_serverxxx.bat** files
@@ -18,21 +18,21 @@ t6 -> **%localappdata%\Plutonium\storage\t6**
 (Your server name) | BRUTUS ON THE BRIDGE | (extra txt)
 
 - Server name list :
-PRIVATE SERVER
-RAID BOSS
-BRUTUS ON THE BRIDGE
-TRANZIT IN THE BUS
-PANZER IN AGARTHA
-ORIGINS
-ORIGINS2
-BURIED
-TRANZIT2
-DIE RISE
-TOWN
-TOWN2
-TOWN3
-MOTD
-NUKETOWN
+- PRIVATE SERVER
+- RAID BOSS
+- BRUTUS ON THE BRIDGE
+- TRANZIT IN THE BUS
+- PANZER IN AGARTHA
+- ORIGINS
+- ORIGINS2
+- BURIED
+- TRANZIT2
+- DIE RISE
+- TOWN
+- TOWN2
+- TOWN3
+- MOTD
+- NUKETOWN
 
 ### Auto server restart .bat file
 - Depending on where you installed **node-server-manager folder**, edit the path used in **bo2/!restart_servers.bat**
