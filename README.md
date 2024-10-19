@@ -15,7 +15,7 @@ https://github.com/alicealys/node-server-manager
 - Make sure to add your Plutonium server keys in all **bo2/!start_zm_serverxxx.bat** files
 - Change the **gamelogs path** for each server according to yours in **node-server-manager/Configuration/NSMConfiguration.json**
 - Server key name must be named as follow :
-(Your server name) | BRUTUS ON THE BRIDGE | (extra txt)
+**(Your server name) | BRUTUS ON THE BRIDGE | (extra txt)**
 
 ### Server name list 
 - PRIVATE SERVER
@@ -49,6 +49,6 @@ https://github.com/alicealys/node-server-manager
 - Add the **.pguid** of target in **ZombieBank.js**, **ClanTag.js**, **ZombieStats.js**, **NativeCommands.js**
 
 ### Database
-- If you wish to keep the progress of all previous players, download this file :
+- If you wish to keep the progress of all previous players, download the database (personal data removed):
 https://drive.google.com/file/d/1emq5qCNQO9mh4TF9jf48B04CME9Wnxi6/view?usp=sharing
 - Place it in **node-server-manager/Database** folder
