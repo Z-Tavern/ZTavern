@@ -50,5 +50,10 @@ https://github.com/alicealys/node-server-manager
 
 ### Database
 - If you wish to keep the progress of all previous players, download the database (personal data removed):
-https://drive.google.com/file/d/1emq5qCNQO9mh4TF9jf48B04CME9Wnxi6/view?usp=sharing
+https://drive.google.com/file/d/1bHtH4IWqbwneiGNMQ11JdKcxjzqn8j40/view?usp=sharing
 - Place it in **node-server-manager/Database** folder
+
+## Server Spec
+- Each server takes up to 1gb of ram with the 6 hours restart
+- You will need a minimum of 16gb available ram to run all 15 servers
+- I recommend BuyVM using the Quake3 application filter for a strong DDoS protection
