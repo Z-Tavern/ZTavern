@@ -48,6 +48,14 @@ https://github.com/alicealys/node-server-manager
 - Add the **.id** of target in staff.gsc (**t6/scripts** directory)
 - Add the **.pguid** of target in **ZombieBank.js**, **ClanTag.js**, **ZombieStats.js**, **NativeCommands.js**
 
+### Use Bo2 command on Discord
+
+- Go to https://discord.com/developers/applications and create a bot
+- In **node-server-manager/Configuration/NSMConfiguration.json** Fill in the discord : hookurl, secret, clientid, bot token
+- For discordOAuth2Url use the following format : http://[server_ip]:8000/api/discord/callback without bracket
+- In discord dev website, go to your bot, OAuth2, and paste the same address in Redirects
+
+
 ### Database
 - If you wish to keep the progress of all previous players, download the database (personal data removed):
 https://drive.google.com/file/d/1bHtH4IWqbwneiGNMQ11JdKcxjzqn8j40/view?usp=sharing
