@@ -1,7 +1,7 @@
 # ZTavern Bo2 Mods & Server setup
 ## Install
 ----------------------------------------------------------
-[OUTDATED]
+[OUTDATED] 
 Newest version GUIDE + mod support + more mods
 https://discord.gg/r3xPeQsfvT
 
