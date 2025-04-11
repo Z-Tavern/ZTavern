@@ -1,5 +1,12 @@
 # ZTavern Bo2 Mods & Server setup
 ## Install
+----------------------------------------------------------
+[OUTDATED]
+Newest version GUIDE + mod support + more mods
+https://discord.gg/r3xPeQsfvT
+
+
+----------------------------------------------------------
 - Setup a Bo2 Server
 https://plutonium.pw/docs/server/t6/setting-up-a-server/
 
