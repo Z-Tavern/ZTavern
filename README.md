@@ -2,9 +2,11 @@
 ## Install
 ----------------------------------------------------------
 [OUTDATED] 
-Newest version GUIDE + mod support + more mods
-https://discord.gg/r3xPeQsfvT
+Due to Plutonium recent update, NSM does not work anymore
+If you know what you are doing you may fix it yourself using these files
 
+Or you can get the paid updated version with extra QoL here
+https://discord.gg/s8dtzHb9v4
 
 ----------------------------------------------------------
 - Setup a Bo2 Server
